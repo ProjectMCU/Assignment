@@ -96,6 +96,8 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+		Auto();
+		Config();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
@@ -232,7 +234,9 @@ static void MX_GPIO_Init(void)
 }
 
 /* USER CODE BEGIN 4 */
-
+void HAL_TIM_PeriodElapsedCallback (TIM_HandleTypeDef * htim ){
+	timerRun();
+}
 /* USER CODE END 4 */
 
 /**
