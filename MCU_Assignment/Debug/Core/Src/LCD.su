@@ -1,0 +1,4 @@
+LCD.c:12:6:send8bitLCD	48	static
+LCD.c:72:6:sendcmd2LCD	16	static
+LCD.c:80:6:sendchar2LCD	16	static
+LCD.c:88:6:sendString2LCD	24	static
