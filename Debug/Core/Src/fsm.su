@@ -1,0 +1,11 @@
+fsm.c:50:13:lcd_update_line	24	static
+fsm.c:59:6:lcd_show_auto_mode	56	static
+fsm.c:71:6:lcd_show_config	64	static
+fsm.c:93:13:setModuleLED	24	static
+fsm.c:102:6:setTrafficLED	40	static
+fsm.c:113:6:enterState	32	static
+fsm.c:122:6:check_button	24	static
+fsm.c:185:13:run_auto_fsm	24	static
+fsm.c:249:13:run_config_blink	32	static
+fsm.c:269:6:Task_FSM	8	static
+fsm.c:279:6:Task_BlinkLED	8	static
