@@ -1,8 +1,0 @@
-scheduler.c:8:13:swap	48	static
-scheduler.c:14:13:heapify_up	24	static
-scheduler.c:23:13:heapify_down	32	static
-scheduler.c:38:6:SCH_Init	8	static,ignoring_inline_asm
-scheduler.c:47:10:SCH_Add_Task	32	static,ignoring_inline_asm
-scheduler.c:65:6:SCH_Update	4	static
-scheduler.c:69:6:SCH_Dispatch_Tasks	40	static
-scheduler.c:92:9:SCH_Delete_Task	40	static,ignoring_inline_asm

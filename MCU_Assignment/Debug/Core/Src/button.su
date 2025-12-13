@@ -1,3 +1,0 @@
-button.c:20:5:isButtonPressed	16	static
-button.c:29:5:isButtonLongPressed	16	static
-button.c:38:6:getKeyInput	8	static
